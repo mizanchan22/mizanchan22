@@ -3,11 +3,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" width="300" alt="Relaxed coding gif" />
-  &nbsp;&nbsp;
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Coding gif" />
-  &nbsp;&nbsp;
-  <img src="https://media.giphy.com/media/3o7TKP9F5F1vj9Eg3O/giphy.gif" width="300" alt="Cyberpunk coding gif" />
 </p>
 
 
