@@ -1,70 +1,79 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mizanchan22&label=Profile%20views&color=0e75b6&style=flat" alt="mizanchan22" /> </p>
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&center=true&width=435&lines=Full+Stack+Developer;CodeIgniter+4;Clean+Code+Believer;Always+Learning+%F0%9F%92%AB" alt="Typing SVG" />
+</h1>
 
-- 🔭 I’m currently working on **...**
-
-- 📫 How to reach me **hamizannorwan@gmail.com**
-
-- ⚡ Fun fact **I ...**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://instagram.com/mizanchan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mizanchan" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
 <p align="center">
-  <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/>
-  </a>
-  <a href="https://codeigniter.com" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/codeigniter.svg" alt="codeigniter" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  </a>
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-  </a>
-  <a href="https://www.nginx.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/>
-  </a>
-  <a href="https://www.php.net" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
-  </a>
-  <a href="https://postman.com" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
+  <img src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" width="300" alt="Relaxed coding gif" />
+  &nbsp;&nbsp;
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Coding gif" />
+  &nbsp;&nbsp;
+  <img src="https://media.giphy.com/media/3o7TKP9F5F1vj9Eg3O/giphy.gif" width="300" alt="Cyberpunk coding gif" />
+</p>
+
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=mizanchan22&label=Profile+Views&color=0e75b6&style=flat-square" alt="Profile View Counter" />
+</p>
+
+---
+
+### 🌐 Connect with Me
+<p align="center">
+  <a href="https://instagram.com/mizanchan" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" 
+         alt="Instagram" 
+         width="50" height="50" 
+         style="border-radius: 50%; border: 2px solid #ccc; padding: 5px;" />
   </a>
 </p>
 
+---
+
+### 🛠️ Tech Stack
+<p align="center">
+  <a href="https://codeigniter.com" target="_blank">
+    <img src="https://cdn.worldvectorlogo.com/logos/codeigniter.svg" width="50" height="50" style="border-radius: 50%; border: 2px solid #ccc; padding: 5px;" />
+  </a>
+  <a href="https://www.php.net" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="50" height="50" style="border-radius: 50%; border: 2px solid #ccc; padding: 5px;" />
+  </a>
+  <a href="https://git-scm.com/" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="50" height="50" style="border-radius: 50%; border: 2px solid #ccc; padding: 5px;" />
+  </a>
+  <a href="https://www.mysql.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="50" height="50" style="border-radius: 50%; border: 2px solid #ccc; padding: 5px;" />
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="50" height="50" style="border-radius: 50%; border: 2px solid #ccc; padding: 5px;" />
+  </a>
+  <a href="https://www.nginx.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" width="50" height="50" style="border-radius: 50%; border: 2px solid #ccc; padding: 5px;" />
+  </a>
+  <a href="https://postman.com" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="50" height="50" style="border-radius: 50%; border: 2px solid #ccc; padding: 5px;" />
+  </a>
+  <a href="https://www.linux.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="50" height="50" style="border-radius: 50%; border: 2px solid #ccc; padding: 5px;" />
+  </a>
+</p>
+
+---
+
+### 📊 GitHub Insights
 <table align="center">
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=mizanchan22&show_icons=true&locale=en" alt="GitHub Stats" />
+      <img src="https://github-readme-stats.vercel.app/api?username=mizanchan22&show_icons=true&theme=github_dark&hide_border=true" alt="Stats" />
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mizanchan22&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-    </td>
-    <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=mizanchan22" alt="GitHub Streak" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mizanchan22&layout=compact&theme=github_dark&hide_border=true" alt="Top Langs" />
     </td>
   </tr>
 </table>
 
+---
+
+### 📈 Contribution Graph
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mizanchan22&theme=monokai&row=1&column=6" alt="GitHub Trophies" />
-</p>
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mizanchan22&theme=github-compact" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mizanchan22&theme=github-compact&hide_border=true" alt="Graph" />
 </p>
